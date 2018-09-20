@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TakeYourOrder</string>
+    <string name="text">Toppings</string>
+    <string name="thank_you">Thank you</string>
+</resources>
